@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![alt text](akshay_vernekar_github.gif)
 <!--
 **akshayvernekar/akshayvernekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
