@@ -1,5 +1,4 @@
-### Hi there 👋
-![alt text](akshay_vernekar_github.gif)
+![alt text](https://github.com/akshayvernekar/akshayvernekar/blob/master/akshay_vernekar_github.gif)
 <!--
 **akshayvernekar/akshayvernekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
